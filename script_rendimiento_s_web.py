@@ -10,7 +10,7 @@ TITULO="modulo"
 DURATION="10"
 IP="localhost"
 URLS=["http://"+IP+"/",""+IP+"/index.html","http://"+IP+"/image.jpg","http://"+IP+"/contenido.zip"]
-SERVERS=["apache2","memcached"]
+SERVERS=["apache2"]
 
 ##############################################################################################################
 resultados=[]
