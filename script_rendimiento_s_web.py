@@ -9,7 +9,7 @@ CONN =[1,10,25,50,75,100]
 TITULO="modulo"
 DURATION="10"
 IP="localhost"
-URLS=["wordpress/","wordpress/index.php/2017/11/20/hello-world/","wordpress/?s=hola","wordpress/index.php/2017/11/"]
+URLS=["http://"+IP+"/",""+IP+"/index.html","http://"+IP+"/image.jpg","http://"+IP+"/contenido.zip"]
 SERVERS=["apache2","memcached"]
 
 ##############################################################################################################
