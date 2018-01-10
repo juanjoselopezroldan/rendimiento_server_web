@@ -9,7 +9,7 @@ CONN =[1,10,25,50,75,100]
 TITULO="modulo"
 DURATION="10"
 IP="localhost"
-URLS=["http://"+IP+"/index.html","http://"+IP+"/image.jpg","http://"+IP+"/contenido.zip"]
+URLS=["/index.html","/image.jpg","/contenido.zip"]
 SERVERS=["apache2"]
 
 ##############################################################################################################
