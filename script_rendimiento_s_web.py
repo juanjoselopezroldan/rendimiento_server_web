@@ -5,7 +5,7 @@ import time
 import commands
 
 # Configuración
-CONN =[1,10,25,50,75,100]
+CONN =[1,10,25,50,75,100,200,500,1000]
 TITULO="modulo"
 DURATION="10"
 IP="localhost"
