@@ -5,12 +5,12 @@ import time
 import commands
 
 # Configuración
-CONN=[1,10,25,50,75,100,200,500,1000]
+CONN =[1,10,25,50,75,100,200,500,1000]
 TITULO="modulo"
 DURATION="10"
 IP="localhost"
-URLS=["index.html","image.jpg","contenido.zip"]
-SERVERS=["apache2"]
+URLS=["wordpress/","wordpress/index.php/2017/11/20/hello-world/","wordpress/?s=hola","wordpress/index.php/2017/11/"]
+SERVERS=["apache2","memcached"]
 
 ##############################################################################################################
 resultados=[]
